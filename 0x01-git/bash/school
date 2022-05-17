@@ -1,3 +1,2 @@
-Hello, world
-BaZ
-echo School
+#!/bin/bash 
+echo "School" 
